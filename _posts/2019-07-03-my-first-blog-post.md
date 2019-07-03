@@ -1,5 +1,5 @@
 ---
-title:  "Jihye's Blog"
+title: "My Blog"
 date: 2019-07-03
 ---
 
